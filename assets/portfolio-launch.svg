@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">YEMIN OS · 点击启动个人网站</title>
+<desc id="desc">浅色终端窗口，介绍 macOS 工具、浏览器扩展和可复用 Skill，点击进入个人作品网站。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#edf3f8"/><stop offset="1" stop-color="#f8fafc"/></linearGradient><filter id="shadow" x="-10%" y="-15%" width="120%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#23364b" flood-opacity=".09"/></filter></defs>
+<rect width="1200" height="410" rx="18" fill="url(#bg)"/>
+<g filter="url(#shadow)"><rect x="36" y="26" width="1128" height="358" rx="14" fill="#fff" stroke="#d5dfe8"/><path d="M50 26H1150Q1164 26 1164 40V70H36V40Q36 26 50 26" fill="#f6f8fb"/><path d="M36 70H1164" stroke="#e0e7ee"/>
+<circle cx="62" cy="48" r="7" fill="#ff675d"/><circle cx="86" cy="48" r="7" fill="#f6bf4f"/><circle cx="110" cy="48" r="7" fill="#44c587"/>
+<g font-family="'SFMono-Regular',Consolas,Menlo,monospace"><text x="600" y="53" text-anchor="middle" font-size="13" fill="#8995a4">yemin@studio — portfolio — 100×24</text><text x="72" y="111" font-size="14" fill="#7b8998">YEMIN OS / PERSONAL WORKSPACE</text>
+<text x="72" y="154" font-size="18"><tspan fill="#347ae2">yemin@studio ~ % </tspan><tspan fill="#28394b">whoami</tspan></text><text x="72" y="194" font-size="28" font-weight="600" fill="#172b40">YEMIN11238</text><text x="72" y="228" font-size="16" fill="#65768a">macOS tools · browser extensions · reusable skills</text><text x="72" y="278" font-size="18"><tspan fill="#347ae2">yemin@studio ~ % </tspan><tspan fill="#28394b">open portfolio</tspan><tspan fill="#38b887"> ▌</tspan></text>
+<rect x="72" y="308" width="282" height="42" rx="8" fill="#edf4ff" stroke="#d3e2fb"/><text x="213" y="335" text-anchor="middle" font-size="14" fill="#2e70ce">Click to launch YEMIN OS →</text><text x="1096" y="337" text-anchor="end" font-size="11" letter-spacing="2" fill="#3b9f78">● SYSTEM READY</text></g>
+<g transform="translate(916 126)" stroke="#b9cde2" fill="none" stroke-width="1.5"><rect width="150" height="108" rx="13" fill="#f5f9fd"/><path d="M0 25H150"/><circle cx="15" cy="13" r="3" fill="#8ac9b3" stroke="none"/><path d="M23 48L36 60 23 72M47 75H78" stroke="#4b80c3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="-38" y="91" width="114" height="77" rx="11" fill="#f9fbff"/><path d="M-20 112H36M-20 124H51M-20 136H16" stroke="#97b2d4"/></g></g>
+</svg>
