@@ -1,8 +1,8 @@
-# Hi, I'm YEMIN11238 👋
+# 你好，我是张俊豪 👋
 
-[![点击终端，进入 YEMIN OS 个人网站](./assets/portfolio-launch.svg)](https://yemin11238.github.io/)
+[![张俊豪的个人工作台 · 自动播放的终端动画，点击进入个人网站](https://raw.githubusercontent.com/YEMIN11238/YEMIN11238/main/assets/portfolio-launch.svg?v=20261019-animated)](https://yemin11238.github.io/)
 
-<p align="center"><sub>点击终端，打开我的个人网站 · Click to launch YEMIN OS</sub></p>
+<p align="center"><sub>终端动画会自动播放 · 点击进入张俊豪的个人网站</sub></p>
 
 我做 macOS 工具、浏览器翻译扩展和交互网页。<br>
 也把常用的界面实现整理成可复用的 Skill。<br>
