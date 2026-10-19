@@ -1,6 +1,6 @@
 # 你好，我是张俊豪 👋
 
-[![张俊豪的个人工作台 · 自动播放的终端动画，点击进入个人网站](https://raw.githubusercontent.com/YEMIN11238/YEMIN11238/main/assets/portfolio-launch.svg?v=20261019-animated)](https://yemin11238.github.io/)
+[![张俊豪的个人工作台 · 自动播放的终端动画，点击进入个人网站](https://raw.githubusercontent.com/YEMIN11238/YEMIN11238/023ea7fc40c488b2904477a1e43f2c6403be4864/assets/portfolio-launch.svg)](https://yemin11238.github.io/)
 
 <p align="center"><sub>终端动画会自动播放 · 点击进入张俊豪的个人网站</sub></p>
 
